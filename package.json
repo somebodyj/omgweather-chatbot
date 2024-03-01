@@ -1,0 +1,22 @@
+{
+  "name": "jsomgchatter",
+  "version": "0.1.0",
+  "description": "This is a highly sophisticated chat bot package that combines random words and weather information to generate engaging conversations. It provides a `chat` function that returns an object containing weather details and a list of formatted messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/omgweather-chatbot.git"
+  },
+  "homepage": "https://github.com/your-username/omgweather-chatbot",
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "moment": "^2.29.1",
+    "random-words": "^1.0.2",
+    "lodash": "^4.17.21"
+  }
+}
